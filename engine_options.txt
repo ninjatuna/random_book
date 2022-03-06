@@ -1,0 +1,2 @@
+option name BookFile type combo default no_book var no_book var noon.db
+option name MinimumThinkingTime type spin default 1000 min 0 max 100000
